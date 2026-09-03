@@ -43,7 +43,7 @@ Atualmente, também estou aprofundando meus conhecimentos em **Cibersegurança**
   API de gerenciamento financeiro integrada à IA Generativa (OpenAI API), capaz de interpretar solicitações em linguagem natural por texto e voz, utilizando Tool Calling e persistência de dados.  
   `Java 17` • `Spring Boot` • `Spring AI` • `Spring Data JPA` • `MariaDB` • `Maven`
 
-* 💡 **[Budget Control - Controle de Orçamento](https://github.com/cleosouzaS/Desafio-de-codar-em-javascript17)**  
+* 💡 **[Budget Control - Controle de Orçamento](https://github.com/cleosouzaS/budget-control)**  
   Aplicação web interativa para controle de despesas e gerenciamento financeiro pessoal com interface responsiva.  
   `JavaScript` • `HTML5` • `CSS3`
 
