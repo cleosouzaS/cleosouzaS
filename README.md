@@ -69,7 +69,9 @@ Atualmente, também estou aprofundando meus conhecimentos em **Cibersegurança**
 
 ### 📬 Vamos nos conectar?
 
+### 📬 Vamos nos conectar?
+
 - 💼 **LinkedIn:** [linkedin.com/in/cleomar-souza](https://linkedin.com/in/cleomar-souza)
 - 📧 **E-mail:** [cleosouza699@gmail.com](mailto:cleosouza699@gmail.com)
 - 🐱 **GitHub:** [github.com/cleosouzaS](https://github.com/cleosouzaS)
-- 🌐 **Portfólio**: [cleosouzas.github.io/Portfolio/]
+- 🌐 **Portfólio:** [cleosouzas.github.io/Portfolio](https://cleosouzas.github.io/Portfolio/)
