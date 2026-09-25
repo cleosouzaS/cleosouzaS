@@ -27,7 +27,9 @@ Atualmente, também estou aprofundando meus conhecimentos em **Cibersegurança**
 **Banco de Dados & Ferramentas**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
@@ -58,16 +60,18 @@ Atualmente, também estou aprofundando meus conhecimentos em **Cibersegurança**
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 📊 Principais Linguagens
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cleosouzaS&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas da Cleomar" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleosouzaS&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150"/>
-</p>
+- **Java** `40%`
+  ![Java](https://geps.dev/progress/40?dangerColor=808080&warningColor=ED8B00&successColor=ED8B00)
+- **JavaScript** `30%`
+  ![JavaScript](https://geps.dev/progress/30?dangerColor=808080&warningColor=F7DF1E&successColor=F7DF1E)
+- **HTML / CSS** `20%`
+  ![HTML/CSS](https://geps.dev/progress/20?dangerColor=808080&warningColor=E34F26&successColor=E34F26)
+- **SQL (MySQL/MariaDB)** `10%`
+  ![SQL](https://geps.dev/progress/10?dangerColor=808080&warningColor=4479A1&successColor=4479A1)
 
 ---
-
-### 📬 Vamos nos conectar?
 
 ### 📬 Vamos nos conectar?
 
